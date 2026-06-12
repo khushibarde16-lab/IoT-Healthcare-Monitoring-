@@ -1,7 +1,8 @@
 # IoT-Healthcare-Monitoring-
-re Monitoring
+
 
 Introduction
+
 The Internet of Things (IoT) is a network of interconnected devices that collect, exchange, and analyze data through the internet. IoT technology has transformed many industries by enabling real-time monitoring, automation, and intelligent decision-making. One of the most significant applications of IoT is in healthcare monitoring, where connected devices help track patients' health conditions continuously and provide timely medical assistance. IoT-based healthcare systems improve patient care, reduce hospital visits, and enhance the efficiency of healthcare services.
 
 What is IoT in Healthcare Monitoring?
